@@ -1,8 +1,10 @@
 ## Olá, eu sou a Aryane K. Goulart 👋
 
-Atualmente trabalhando como Assistente de TI no Grupo Sabor e estudando **Análise de Dados** 📈
+Profissional de TI com experiência em **ERP Sankhya**, atuando com **SQL**, **Power BI** e **Python** no desenvolvimento de consultas, dashboards e análises voltadas à tomada de decisão e otimização de processos.
+
+Tenho foco em **Análise de Dados**, automação de rotinas e melhoria contínua, sempre orientada por dados e performance.
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
