@@ -20,6 +20,4 @@ Tenho foco em **Análise de Dados**, automação de rotinas e melhoria contínua
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanekgoulart&show_icons=true&theme=radical)
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanekgoulart)](https://github.com/anuraghazra/github-readme-stats)
