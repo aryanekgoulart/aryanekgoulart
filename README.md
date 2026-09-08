@@ -22,8 +22,6 @@ No meu dia a dia, desenvolvo consultas SQL, relatórios gerenciais e dashboards 
   <img align="center" alt="Oracle SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
   <img align="center" alt="Power BI" height="40" width="50" src="https://img.icons8.com/color/96/power-bi.png">
   <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
 
 <br>
